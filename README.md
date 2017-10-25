@@ -15,3 +15,5 @@ Keep up to date on the library development by joining the Asynchronous HTTP Clie
 [Google Group](http://groups.google.com/group/asynchttpclient)
 
 or follow us on [Twitter](http://twitter.com/jfarcand)
+
+This is my change
