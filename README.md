@@ -17,3 +17,5 @@ Keep up to date on the library development by joining the Asynchronous HTTP Clie
 or follow us on [Twitter](http://twitter.com/jfarcand)
 
 This is my change
+
+I would love you to review this contribution from me
